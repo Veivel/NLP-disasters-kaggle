@@ -1,0 +1,4 @@
+*.zip
+*.csv
+!pred.csv
+!results.csv
